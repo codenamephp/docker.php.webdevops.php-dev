@@ -1,4 +1,4 @@
-FROM webdevops/php-dev:8.0
+FROM webdevops/php-dev:8.1
 
 LABEL maintainer="Bastian Schwarz <bastian@codename-php.de>"
 LABEL description="PHP8 dev image based on webdevops/php-dev:8.0 with added phive and some config changes"
